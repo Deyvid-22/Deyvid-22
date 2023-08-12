@@ -1,6 +1,6 @@
 ### seja bem-vindo! 👋
 
-<h1 align="center">Olá, eu sou Deyvid silva</h1>
+<h1 align="center">Olá, eu sou Deyvid Silva</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 <div align="center">  
