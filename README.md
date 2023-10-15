@@ -15,14 +15,16 @@
 <img width="90px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img width="90px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="90px"  height="60px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<!--
 <img width="90px"  height="60px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img width="90px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+-->
 </div>
 <br>
 
 
 
-  
+  <!--
 <div align="center">
 
 <a href = "">
@@ -43,7 +45,7 @@
 </a>
 
  </div> 
-
+-->
 
 
 
