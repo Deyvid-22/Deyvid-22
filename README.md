@@ -1,7 +1,7 @@
 ### seja bem-vindo! 👋
 
 <h1 align="center">Olá, eu sou Deyvid Silva</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deyvid-22&show_icons=true&count_private=true&hide_border=true&title_color=28B01E&icon_color=28B01E&text_color=c9d1d9&bg_color=0d1117" alt="Deyvid-22" /> 
