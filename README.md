@@ -5,7 +5,7 @@
 
 
 <br>
-<div align="start">
+<div align="center">
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,8 +45,9 @@
 
 <div align="center>
   
-#
+  #
 
+  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deyvid-22/Deyvid-22/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deyvid-22/Deyvid-22/output/github-contribution-grid-snake-dark.svg">
