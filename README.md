@@ -11,7 +11,7 @@
 
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Deyvid-22&theme=radical&mode=weekly" />
 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Deyvid-22&show_icons=true&theme=radical&layout=compact" />
+
 
  </div>
  
@@ -53,6 +53,7 @@
 <div>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   
 </div>
 
