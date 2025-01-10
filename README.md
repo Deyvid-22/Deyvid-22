@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
 
 ## CSS Preprocessors
@@ -67,7 +68,7 @@
 <!-- <a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/deyvidsilvadev/" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="mailto:deyviddeves6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<!-- <a href="https://deyvidportifolio.vercel.app/"> <img src="https://img.shields.io/badge/Portifolio-005C84?style=for-the-badge"/> </a> -->
+<a href="https://portifolio-uubj.vercel.app/"> <img src="https://img.shields.io/badge/Portifolio-005C4?style=for-the-badge"/> </a>
 
 </div>&nbsp;&nbsp;
 
